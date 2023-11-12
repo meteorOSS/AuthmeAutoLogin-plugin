@@ -1,0 +1,6 @@
+name: AuthmeAutoLogin
+version: '${project.version}'
+main: com.meteor.authmeautologin.AuthmeAutoLogin
+api-version: 1.18
+depend:
+  - AuthMe
